@@ -1,14 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="528b4c53-6b05-4434-89e0-d49b3977f937" name="Changes" comment="" />
+    <list default="true" id="528b4c53-6b05-4434-89e0-d49b3977f937" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TugasLatihan.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TugasLatihan.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConnectUri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConnectUri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Contoh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Contoh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DaftarPasien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DaftarPasien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GlossEntry.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GlossEntry.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InputdariUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InputdariUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JSON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JSON.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pasien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pasien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UAS_no3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UAS_no3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cetakangkagenap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cetakangkagenap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/latihan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/latihan.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QxmVWndWdQpzGHtzb5w8lwG90s" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +47,56 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/HP COREi3/IdeaProjects/TugasStokBarang/src/ConnectUri.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.cetakangkagenap">
+    <configuration name="InputdariUser" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="InputdariUser" />
+      <module name="TugasLatihan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JSON" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JSON" />
+      <module name="TugasLatihan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pasien$pendaftaranpasien" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Pasien$pendaftaranpasien" />
+      <module name="TugasLatihan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cetakangkagenap" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cetakangkagenap" />
+      <module name="TugasLatihan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.InputdariUser" />
+      <item itemvalue="Application.cetakangkagenap" />
+      <item itemvalue="Application.JSON" />
+      <item itemvalue="Application.Pasien$pendaftaranpasien" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Pasien$pendaftaranpasien" />
+        <item itemvalue="Application.JSON" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -32,5 +107,19 @@
       <updated>1686303642190</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TugasLatihan$InputdariUser.ic" NAME="InputdariUser Coverage Results" MODIFIED="1686908329523" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
